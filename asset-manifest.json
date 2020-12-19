@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aijazpatel/slotweb.git/static/css/main.a620fbd6.chunk.css",
+    "main.js": "/Aijazpatel/slotweb.git/static/js/main.a5ff4546.chunk.js",
+    "main.js.map": "/Aijazpatel/slotweb.git/static/js/main.a5ff4546.chunk.js.map",
+    "runtime-main.js": "/Aijazpatel/slotweb.git/static/js/runtime-main.844d2f7d.js",
+    "runtime-main.js.map": "/Aijazpatel/slotweb.git/static/js/runtime-main.844d2f7d.js.map",
+    "static/js/2.99d84dbd.chunk.js": "/Aijazpatel/slotweb.git/static/js/2.99d84dbd.chunk.js",
+    "static/js/2.99d84dbd.chunk.js.map": "/Aijazpatel/slotweb.git/static/js/2.99d84dbd.chunk.js.map",
+    "index.html": "/Aijazpatel/slotweb.git/index.html",
+    "precache-manifest.920e153a13bcfcf66461bd3c077bedc5.js": "/Aijazpatel/slotweb.git/precache-manifest.920e153a13bcfcf66461bd3c077bedc5.js",
+    "service-worker.js": "/Aijazpatel/slotweb.git/service-worker.js",
+    "static/css/main.a620fbd6.chunk.css.map": "/Aijazpatel/slotweb.git/static/css/main.a620fbd6.chunk.css.map",
+    "static/js/2.99d84dbd.chunk.js.LICENSE.txt": "/Aijazpatel/slotweb.git/static/js/2.99d84dbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844d2f7d.js",
+    "static/js/2.99d84dbd.chunk.js",
+    "static/css/main.a620fbd6.chunk.css",
+    "static/js/main.a5ff4546.chunk.js"
+  ]
+}
